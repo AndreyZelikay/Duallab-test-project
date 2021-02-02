@@ -1,6 +1,6 @@
 # Duallab test project
 
-###run following commands in the root of directory to start application:
+###run following commands in the project root directory to start application:
 
 `mvn clean package`
 
